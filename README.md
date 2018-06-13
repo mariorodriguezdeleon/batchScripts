@@ -1,2 +1,2 @@
 # batchScripts
-Repository that holds my useful batch scripts
+Repository to hold useful batch scripts created for system management
